@@ -12,6 +12,6 @@ print(countries)
 countries.sort(reverse=True)
 print(countries)
 
-#3.9 Определение длины списка - Работает в терминале питона
+# 3.9 Определение длины списка - Работает в терминале питона
 cars = ['bmw', 'audi', 'toyota', 'subaru']
 len(cars)

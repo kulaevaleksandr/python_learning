@@ -1,5 +1,5 @@
-salutation = ("Привет, Лёха!")
+salutation = "Привет, Лёха!"
 print(salutation)
 
-question_target = ("Сколько лет, сколько зим! Какими судьбами?")
+question_target = "Сколько лет, сколько зим! Какими судьбами?"
 print(question_target)

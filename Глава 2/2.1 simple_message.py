@@ -1,2 +1,2 @@
-salutation = ("Привет, не Алексей!")
+salutation = "Привет, не Алексей!"
 print(salutation)
