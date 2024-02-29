@@ -7,6 +7,6 @@ favorite_places = {
 }
 for place, people in favorite_places.items():
     for name in people.values():
-    print(f'\nName: {name}')
+        print(f'\nName: {name}')
     people = people['name']
-    print(f'\tPlace: {place.lower()}')
+    print(f'\tPlace: {place.title()}')
